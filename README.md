@@ -1,8 +1,8 @@
-# screen-capture
+# Screen Capture
 
 This is a screen capture application built using Electron.js
 
-### installation
+## Installation
 
 Type the following on the command-line:
 
